@@ -1,13 +1,16 @@
 ### Hi Muhammad Faisal is here 👋
 
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+Professional Skills Summary:-
+As a Technical Consultant
+I have 5+ year experience with Oracle E-business Suite and Custom application along with Java, SQL, PL/SQL, 
+Oracle Forms & Reports, OAF and Workflow Builder.
 
-- 🔭 I’m currently working on Java & Oracle applications.
-- 🌱 I’m currently learning Java & 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Projects:-	
+•	Oracle EBS R12 Implementation & Development (Manufacturing, Supply chain, Financials)  
+•	Shopify Applications for auto fulfilment (Java Server)
+•	E-Store Online Sale applications (Oracle Forms & Reports)
+•	Auto-Data Uploading using Excel File (OAF utility) 
+•	File Management System (OAF utility)  
+•	API Integrations between website servers, Oracle application and Databases (Oracle, SQL Server & Restful API)
+•	Communication of machines with database and Applications ( Java , C# , IOT)
 
