@@ -13,7 +13,7 @@ Oracle Forms & Reports, OAF and Workflow Builder.
 • Oralce EBS Technical consultant <br />
 • Oracle Databases <br />
 
-### For further any query text on whatsapp (+923085546497)
+### For further any query text on whatsapp (+923355546497)
 
 ### Projects:-	
 •	Oracle EBS R12 Implementation & Development (Manufacturing, Supply chain, Financials)  <br />
