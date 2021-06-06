@@ -5,7 +5,7 @@ As a Technical Consultant
 I have 5+ year experience with Oracle E-business Suite and Custom application along with Java, SQL, PL/SQL, 
 Oracle Forms & Reports, OAF and Workflow Builder.
 
-Projects:-	
+### Projects:-	
 •	Oracle EBS R12 Implementation & Development (Manufacturing, Supply chain, Financials)  
 •	Shopify Applications for auto fulfilment (Java Server)
 •	E-Store Online Sale applications (Oracle Forms & Reports)
