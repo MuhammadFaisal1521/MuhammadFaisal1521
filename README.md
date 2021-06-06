@@ -15,3 +15,9 @@ Oracle Forms & Reports, OAF and Workflow Builder.
 •	Communication of machines with database and Applications ( Java , C# , IOT) <br />
 
 ### Training are available
+
+• Java Application (Java Swing or JavaFX) <br />
+• Oracle SQL/PLSQL <br />
+• Oracle Forms / Reports <br />
+• Oralce EBS Technical consultant <br />
+• Oracle Databases <br />
