@@ -14,3 +14,12 @@ Oracle Forms & Reports, OAF and Workflow Builder.
 • Oracle Databases <br />
 
 ### For further any query text on whatsapp (+923085546497)
+
+### Projects:-	
+•	Oracle EBS R12 Implementation & Development (Manufacturing, Supply chain, Financials)  <br />
+•	Shopify Applications for auto fulfilment (Java Server) <br />
+•	E-Store Online Sale applications (Oracle Forms & Reports) <br />
+•	Auto-Data Uploading using Excel File (OAF utility) <br />
+•	File Management System (OAF utility)  <br />
+•	API Integrations between website servers, Oracle application and Databases (Oracle, SQL Server & Restful API) <br />
+•	Communication of machines with database and Applications ( Java , C# , IOT) <br />
