@@ -1,4 +1,4 @@
-### Hi Muhammad Faisal is here 👋 Founder of [Oracle-Programming-School](https://github.com/Oracle-Programming-School)
+### Hi Muhammad Faisal is here 👋 Maintainer & Admin of [Oracle-Programming-School](https://github.com/Oracle-Programming-School)
 
 Professional Skills Summary:-
 As a Technical Consultant
